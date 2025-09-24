@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: 9999de9528d58634283ca71fa542da1c
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SS
+    second: {fileID: 2100000, guid: 0f3047d0c9d67d644944b990fa4d6da6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black trim
+    second: {fileID: 2100000, guid: 9045b376a805dd742821c65f212a0f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy bag box 1
+    second: {fileID: 2100000, guid: e1adf13f9f51e824b909a53a1a1b47e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy bag box 2
+    second: {fileID: 2100000, guid: d9e992e5fb6e14945b5842f277faae30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy bag box 3
+    second: {fileID: 2100000, guid: 1d544b646b8f97245b68f7c5f6de354c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy bag box 4
+    second: {fileID: 2100000, guid: 2f6abee8b4e615c4dab55e31ec6a6377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy bag box 5
+    second: {fileID: 2100000, guid: f07b3fdf59663f9409962ace955d8c0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 1
+    second: {fileID: 2100000, guid: 4b2d4d90e5193a84ab796c2b6daa4dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 10
+    second: {fileID: 2100000, guid: c39aeb69ef977ff42ada87267b846fe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 11
+    second: {fileID: 2100000, guid: 47e81b941cf83bf4a91e3b69dd22b263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 12
+    second: {fileID: 2100000, guid: 5152fa641656a734d9bc63786e2c4b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 13
+    second: {fileID: 2100000, guid: 0bc9e288cf310d4459afd911887ef365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 2
+    second: {fileID: 2100000, guid: 5c035f970680fe041ab1a558dcef2c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 3
+    second: {fileID: 2100000, guid: 2d99c2def336bca4a833e2fac9a78416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 4
+    second: {fileID: 2100000, guid: 9e079ebb8714882489fb3c999ca963d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 5
+    second: {fileID: 2100000, guid: 52379498f54fd0b47bffa29b18e6e8a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 6
+    second: {fileID: 2100000, guid: 70fc2bcf7d131d4418b3b77d085cef49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 7
+    second: {fileID: 2100000, guid: e7ae3bc268355c24191d04b7f7447508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 8
+    second: {fileID: 2100000, guid: b0e474d0989a7b345825f751a6adb9d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box 9
+    second: {fileID: 2100000, guid: c812ec3bc9a849741aa933f99b74d687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box b 1
+    second: {fileID: 2100000, guid: e100f43b3e30903419d70ce2fda00bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box b 2
+    second: {fileID: 2100000, guid: d5cfaf336ce44c3438213ad334ff7199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box b 3
+    second: {fileID: 2100000, guid: 386ce41715a7af74786c25d19b2df029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box b 4
+    second: {fileID: 2100000, guid: 3fba6071610fa204e80f950298e73855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy box b 5
+    second: {fileID: 2100000, guid: 3221d46749d460242847fffa0b6322fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_1
+    second: {fileID: 2100000, guid: c1c3afe6662b7d64f878406cd92a8238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_10
+    second: {fileID: 2100000, guid: 62f11fec69824b5439dc50f23c792dd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_11
+    second: {fileID: 2100000, guid: 1ee958a5e9ac680498da0a3e2d962ce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_12
+    second: {fileID: 2100000, guid: 93e7c2547afec0b479d0d4001778e2aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_13
+    second: {fileID: 2100000, guid: 0ea02ea246df6b541a01959fc822c303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_2
+    second: {fileID: 2100000, guid: e48f56c8c0c04b14aaa52dc12625e6b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_3
+    second: {fileID: 2100000, guid: 2ba6dc8f272be004c82c13a88990a72b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_4
+    second: {fileID: 2100000, guid: a9a387534ce7666449971ea036d6652e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_5
+    second: {fileID: 2100000, guid: 240832d460d11ac4da50c482559020e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_6
+    second: {fileID: 2100000, guid: 44302ac024237c64aa56a14a2eb30444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_7
+    second: {fileID: 2100000, guid: d327955dcd78ce04c8b16181f537d9e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_8
+    second: {fileID: 2100000, guid: 38874c6268bbaf1478a6f041a967c8dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_9
+    second: {fileID: 2100000, guid: 0525772fbc11df046b2b896ccfe9489a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_b_1
+    second: {fileID: 2100000, guid: d7cfa542aa330024397a24e38f2e34aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_b_2
+    second: {fileID: 2100000, guid: 1712ad9419daae54d92dbb94c725b34c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_b_3
+    second: {fileID: 2100000, guid: da6bae8e292a8d24796593bbe645eaeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_b_4
+    second: {fileID: 2100000, guid: 20e6b348ffe8bbb4c9c270e0b6faa46e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_b_5
+    second: {fileID: 2100000, guid: a364ac6c2b9c644438628d01dac76932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_b_6
+    second: {fileID: 2100000, guid: d38a04a2ac7a25c4ab4ac1e673531f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_1
+    second: {fileID: 2100000, guid: 7d586464c26075e478c1051620db55bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_2
+    second: {fileID: 2100000, guid: 580b13ab7e89c4b4883366bb18742713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_3
+    second: {fileID: 2100000, guid: 3f570681040503e4eb0cfaff0ea28362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_4
+    second: {fileID: 2100000, guid: 34f6aed95c896ec47bb646a3ad58e253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_5
+    second: {fileID: 2100000, guid: 05068ca19d6de284c9fa8aca6ec9a264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 1
+    second: {fileID: 2100000, guid: 8874a49eb01d86643ba4b5140662e978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 10
+    second: {fileID: 2100000, guid: d1eea9980c03ce34d880ea316efc4b4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 2
+    second: {fileID: 2100000, guid: b08a1a6e94e02d642b7843db3a01702e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 3
+    second: {fileID: 2100000, guid: 44023f41968fb1643a2d9681acda753d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 4
+    second: {fileID: 2100000, guid: 47369ca384225f8499aff6897fa6c5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 5
+    second: {fileID: 2100000, guid: bd93c642ea747444382256f71cd4acd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 6
+    second: {fileID: 2100000, guid: 4a76554776fa2c849b485aa3fb772bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 7
+    second: {fileID: 2100000, guid: e81e4e6f1408b924585dd1286b134157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 8
+    second: {fileID: 2100000, guid: e4a0ca9d35d83634ca1b8617421a845f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum 9
+    second: {fileID: 2100000, guid: f784047019b6de94a800f7a4453a6929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 1
+    second: {fileID: 2100000, guid: 617848269a2d09f498b7df6700df1373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 10
+    second: {fileID: 2100000, guid: 4d147c2a9d2804347a11db5f33580aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 2
+    second: {fileID: 2100000, guid: 5747545b2b71332438131782ef0e4516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 3
+    second: {fileID: 2100000, guid: 5f1908b3f7fb6fc4ebe5f6e4b915a157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 4
+    second: {fileID: 2100000, guid: b35a66ab181f7cf4a8aeec8e8a2a7185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 5
+    second: {fileID: 2100000, guid: d04dbd770546fd840a852096db9b4758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 6
+    second: {fileID: 2100000, guid: 073898d35188774469307efcaf50c359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 7
+    second: {fileID: 2100000, guid: 1e2f0ed6651b1d4479cf60bd441b8cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 8
+    second: {fileID: 2100000, guid: 6a1439c0dfb51b84685180e40e5ed1b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gum box 9
+    second: {fileID: 2100000, guid: 381ec0b28d99df04399cfd3de507a654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos box 1
+    second: {fileID: 2100000, guid: f36689d42751e62459a593cf5353190d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos box 2
+    second: {fileID: 2100000, guid: cc09fd8fc02bf074ea31d0279fb7a5ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos box 3
+    second: {fileID: 2100000, guid: ee3610fcfe662794ea7fd52f6fd038e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos box 4
+    second: {fileID: 2100000, guid: 6824852615426714389f2edb6b145c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos box 5
+    second: {fileID: 2100000, guid: fa4bc4695a0ca9c4abcc5f6168a027da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos box 6
+    second: {fileID: 2100000, guid: 34a40bb7d52bc294caad843285e611ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_1
+    second: {fileID: 2100000, guid: 884338d74fe7c32408e9a6eb2b506ec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_2
+    second: {fileID: 2100000, guid: db7bbb84de1449f40857362906115f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_3
+    second: {fileID: 2100000, guid: 9266e463deffc8744812838dc4aa4f76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_4
+    second: {fileID: 2100000, guid: d249c9f12b44d694c8cd720f2c3d7ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_5
+    second: {fileID: 2100000, guid: 69dc3b67ab39f094e856d215375558a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_6
+    second: {fileID: 2100000, guid: 00166b68837d6c944ad1799c7d725789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_6.001
+    second: {fileID: 2100000, guid: 12c6d98e7ba26be4796c5ccaa7b027f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_6.002
+    second: {fileID: 2100000, guid: e577b46b165c1a94fa9197e96cf5724c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_6.003
+    second: {fileID: 2100000, guid: 41b76cc59f4e8094196ae34dfb61c5e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mentos_6.004
+    second: {fileID: 2100000, guid: 7c9d5f96496e71748a47d8a179b981a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood sides
+    second: {fileID: 2100000, guid: bd9ba392f7c1b7446ab7c6ae9fe2df10, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_1
+    second: {fileID: 2800000, guid: 22c799deada7afa4eadb3d7d187aa62d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_2
+    second: {fileID: 2800000, guid: 988c6e68d6d7ab94ea1f3eec257ec90f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_3
+    second: {fileID: 2800000, guid: 6d7867753764b2a4fbeccbc62a45be1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_4
+    second: {fileID: 2800000, guid: beb5b418dbb7f2748b807b25671cbaf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_5
+    second: {fileID: 2800000, guid: 9d358c2475d89cd429d18f2cf88ecdc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_box_1
+    second: {fileID: 2800000, guid: 1b6f66c80ce9cff4696d9e98b2cd4292, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_box_2
+    second: {fileID: 2800000, guid: 07645abdabd7774428c503f0b0f88476, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_box_3
+    second: {fileID: 2800000, guid: cc398f5c0394fbf459df1fcc76ddec90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_box_4
+    second: {fileID: 2800000, guid: 5819be4b367ab5c4e9fcc2bb44d481bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bag_box_5
+    second: {fileID: 2800000, guid: ccafaa030d0a2fb4283839144ef1d735, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_1
+    second: {fileID: 2800000, guid: 5d169d75ee1bdab48937733fa46c5a52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_10
+    second: {fileID: 2800000, guid: fd2dcace6e9ab5248b5bdb2e4f566247, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_11
+    second: {fileID: 2800000, guid: 3b953694016f2e64b93bba1f2dd02ac4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_12
+    second: {fileID: 2800000, guid: 2c158faba6bdbfb49bbbc8f7183e8157, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_13
+    second: {fileID: 2800000, guid: d16ab4593b05fbc418c69297e65c6936, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_2
+    second: {fileID: 2800000, guid: 811dfa1627963b1469d239268d3886aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_3
+    second: {fileID: 2800000, guid: 17d03cc0f76f3ea4d8ad8b3e25ed1fee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_4
+    second: {fileID: 2800000, guid: bd4841fd456cca24c98615b201750f7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_5
+    second: {fileID: 2800000, guid: d249be87bc34c0e47bd25a21f86ace29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_6
+    second: {fileID: 2800000, guid: b59c89a65a190b848aff78e9d5fba458, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_7
+    second: {fileID: 2800000, guid: e79c056803112e148990a5d9d6b219fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_8
+    second: {fileID: 2800000, guid: 4962aecf646c07b4fb4c96a6443fd12f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_9
+    second: {fileID: 2800000, guid: 38f00e2807084ba468b8c6b509c76591, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_b_1
+    second: {fileID: 2800000, guid: b3891593e0b65804aba97d44e9677c8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_b_1_bump
+    second: {fileID: 2800000, guid: bd5238848e4964f4692ddfbc562ae423, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_b_2
+    second: {fileID: 2800000, guid: fcfad5dac714c6448b0e9fecf3fd7e9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_b_3
+    second: {fileID: 2800000, guid: f3363e7a581240e45b52ddd3d74ee213, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_b_4
+    second: {fileID: 2800000, guid: 08bcbd22990bb1a4cb2358041a006abc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_b_5
+    second: {fileID: 2800000, guid: e7ad7f6bf6c3a0b46ba32be9a0c5f7a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_b_6
+    second: {fileID: 2800000, guid: 9680651fb345a714c8ca9f0cd82f98ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_1
+    second: {fileID: 2800000, guid: c52cd280a2805c446ad6758514623da3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_10
+    second: {fileID: 2800000, guid: 992dda929f126eb4a8c3d52fc33852b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_11
+    second: {fileID: 2800000, guid: 41b88cfa15fa97342a6833ff01faed06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_12
+    second: {fileID: 2800000, guid: ba90db42b8adfd84fac25d61e22cc802, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_13
+    second: {fileID: 2800000, guid: db962a3665a116a44b254dec628630cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_1_bump
+    second: {fileID: 2800000, guid: a5899b78c3a3eef45911784fa0e3a4bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_2
+    second: {fileID: 2800000, guid: dbbb0871b27040c4984ec68a659f9d6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_3
+    second: {fileID: 2800000, guid: ce6ab44e1c7474c4e97fb7041f5dd17d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_4
+    second: {fileID: 2800000, guid: e8885fdf4bf356940941938a7dac79a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_5
+    second: {fileID: 2800000, guid: a94591af9bfdcac42bd9db137d400ec2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_7
+    second: {fileID: 2800000, guid: acdeb3471bf3afd4fbaba6948c3fb9f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_8
+    second: {fileID: 2800000, guid: 13c09b0af4eb95242ac4557bcee08863, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_9
+    second: {fileID: 2800000, guid: 0c5ed6f2cd2e6cf49915d0724200976d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_b_1
+    second: {fileID: 2800000, guid: 2c1d62be5a6a2cb41bcfab7d70d4b9ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_b_2
+    second: {fileID: 2800000, guid: f86b214d69cf6e24da9b259fd0a6b75f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_b_3
+    second: {fileID: 2800000, guid: b391243637ea83246ac2c445264654d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_b_4
+    second: {fileID: 2800000, guid: 4e2ee60819fa5734db383a112f0ba755, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_b_5
+    second: {fileID: 2800000, guid: 7cc1f63ff2b6f0143badfa0eec8e3681, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candy_bar_box_b_6
+    second: {fileID: 2800000, guid: 07260aa6b16076a4c9af267e2d1c3a46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_1
+    second: {fileID: 2800000, guid: 4ea87330bd8d57e48bc4c603f9c8652e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_10
+    second: {fileID: 2800000, guid: a2015712762c0944d90e469ab22d4ef1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_2
+    second: {fileID: 2800000, guid: 0443ae1c3abaa754f950da39b73d5699, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_3
+    second: {fileID: 2800000, guid: 689a473143efe1243a74a610fdb9e027, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_4
+    second: {fileID: 2800000, guid: d6b8a670989bd944b8aed76983c64da7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_5
+    second: {fileID: 2800000, guid: 87d9cea31837cd64e9352935e8570625, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_6
+    second: {fileID: 2800000, guid: d9e3d7643b0b7cb40add304a927e6d7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_7
+    second: {fileID: 2800000, guid: 72f4766e72ee04642a7af79cc7e431e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_8
+    second: {fileID: 2800000, guid: d4be4b981a0cd0140b8325ac0cf4d83a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_9
+    second: {fileID: 2800000, guid: b03232609739b3649bbc65c3ddef7d43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_1
+    second: {fileID: 2800000, guid: deb0acda11ea4ae4ca3c8ffea7f89b28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_10
+    second: {fileID: 2800000, guid: 6a079f53b776c7a468804c72170c03c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_2
+    second: {fileID: 2800000, guid: 5449e6672c039984ea5aa8d9ee1b6482, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_3
+    second: {fileID: 2800000, guid: 0162f8ecb041c774b9b8917fa1a86b66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_4
+    second: {fileID: 2800000, guid: ab0656b43a66a3c49b565a0649259d82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_5
+    second: {fileID: 2800000, guid: 92987030e1f8bc44f8bbd4907f47649e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_6
+    second: {fileID: 2800000, guid: d4de5de266e207d4cbfb524ffbaadd3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_7
+    second: {fileID: 2800000, guid: 5d2806d972a332643a06de2fd4301204, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_8
+    second: {fileID: 2800000, guid: 288ff6bac47e7274c82fda3632f0034e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gum_box_9
+    second: {fileID: 2800000, guid: e3f383caa7c8afa499589b0a1e070b99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_01
+    second: {fileID: 2800000, guid: 71d9946d54ab13d4db98fd4f850cef9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_02
+    second: {fileID: 2800000, guid: 04f288672f11cb948bb8b3bd0f8c855e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_03
+    second: {fileID: 2800000, guid: 14d29fde9acffd54aa8de4c6cbb45eee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_04
+    second: {fileID: 2800000, guid: 6f36a5cab2e8d84499b074cd91994555, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_05
+    second: {fileID: 2800000, guid: 7d337bc7595f56549935ad81b47f6e13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_06
+    second: {fileID: 2800000, guid: 10d9f5e442795144fb8be7aa4f59ff6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_box_01
+    second: {fileID: 2800000, guid: 8753833de7de71f488c25ddea8e29eef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_box_02
+    second: {fileID: 2800000, guid: d291d83d33acf5549bfb9bdabc43fb78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_box_03
+    second: {fileID: 2800000, guid: a1a62044cbdf3b44b9b8d5708b3d7af8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_box_04
+    second: {fileID: 2800000, guid: f1428b3ce0454144f9fdd9f024e5d37f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_box_05
+    second: {fileID: 2800000, guid: 7fad913aa3ee7924b94686966227b081, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mentos_box_06
+    second: {fileID: 2800000, guid: bd3dd9496fbbae948936193bfd378d02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_candy_display
+    second: {fileID: 2800000, guid: b21c01d129baf1f4fb818c8b3d38f8f6, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
